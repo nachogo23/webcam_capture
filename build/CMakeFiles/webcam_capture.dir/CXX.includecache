@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/nachogp/Desktop/Master/Integracio/Repos/webcam_capture/src/webcam_capture.cpp
+/home/nachogp/Desktop/Robotics_MSc/Sistemes_percepció/repos/webcam_capture/src/webcam_capture.cpp
 opencv2/opencv.hpp
-/home/nachogp/Desktop/Master/Integracio/Repos/webcam_capture/src/opencv2/opencv.hpp
+/home/nachogp/Desktop/Robotics_MSc/Sistemes_percepció/repos/webcam_capture/src/opencv2/opencv.hpp
 iostream
 -
 cstdlib

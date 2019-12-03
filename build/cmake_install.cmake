@@ -1,4 +1,4 @@
-# Install script for directory: /home/nachogp/Desktop/Master/Integracio/Repos/webcam_capture
+# Install script for directory: /home/nachogp/Desktop/Robotics_MSc/Sistemes_percepció/repos/webcam_capture
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/nachogp/Desktop/Master/Integracio/Repos/webcam_capture/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/nachogp/Desktop/Robotics_MSc/Sistemes_percepció/repos/webcam_capture/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
