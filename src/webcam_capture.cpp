@@ -4,7 +4,7 @@
 //std
 #include <iostream>
 #include <cstdlib>
-using namespace std; //S'afegeix aquesta linea per eliminar std:: abans de cada cout
+using namespace std; //S'afegeix aquesta linea per eliminar std:: a cada cout
 //main
 int main(int argc, char *argv[])
 {
@@ -43,7 +43,7 @@ int main(int argc, char *argv[])
 
 
 //Es demana a l'usuari que introdueixi un valor pel tamny de la creu i un valor de 1 a 5 per definir el color
-cout<<"Choose size of the cross (in pixels): "; cin>>size;
+cout<<"Choose total size of the cross in pixels: "; cin>>size;
 cout<<"Choose a color for the cross; 1(red), 2(green) 3(blue), 4(black), 5(white): "; cin>>color;
 
     //capture loop. Out of user press a key

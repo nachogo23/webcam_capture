@@ -1,13 +1,16 @@
-# webcam_capture
-Just webcam capture
+webcam_capture
 
-## Tips
-https://wiki.archlinux.org/index.php/webcam_setup
+Repositori original: 
 
-http://www.linuxintro.org/wiki/Set_up_a_Webcam_with_Linux
+S'hafegeixesn a l'script original canvis per modificar la imatge webcam que es mostra en pantalla en temps real. Es modifica la intesitat de diferents pixels per mostrar una creu entorn al pìxel central de la imatge. La mida i el color de la creu son triades per l'usuari.
+
+Un cop l'usuari escull el color i la mida de la creu,a la terminal es mostra el valor d'intensitat, captat per la webcam, del píxel central seguint el codi RGB. 
+
+Podria ser una mena de sensor de colors..? (
 
 
 
+Instrucions per generar l'executable
 
 1. Fork del repositori al nostre espai de GitHub
 2. Clone del repositori. Dins trobem l'arxiu CMakelists.txt, on es defineixen els paràmetres necesaaris per poder compilar, llibreries associades, nom de l'executable que es generarà, etc.
