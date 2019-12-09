@@ -1,6 +1,6 @@
 webcam_capture
 
-Repositori original: 
+Repositori original: https://github.com/beta-robots/webcam_capture
 
 S'hafegeixesn a l'script original canvis per modificar la imatge webcam que es mostra en pantalla en temps real. Es modifica la intesitat de diferents pixels per mostrar una creu entorn al pìxel central de la imatge. La mida i el color de la creu son triades per l'usuari.
 
